@@ -1,22 +1,22 @@
-# 👋 Hi, I'm Rohit
+#  Hi, I'm Rohit
 
-🚀 Aspiring Software Developer | Cybersecurity Enthusiast  
-💻 MERN Stack Developer | Python Developer  
-🔐 Passionate about Networking, Security & Backend Systems  
-
----
-
-## 🧠 About Me
-
-- 🎓 Computer Science Student
-- 🔍 Interested in Cybersecurity & Ethical Hacking
-- 🌐 Building Full-Stack Web Applications
-- ⚡ Focused on writing clean and scalable code
-- 📈 Constantly learning and improving
+ Aspiring Software Developer | Cybersecurity Enthusiast  
+ MERN Stack Developer | Python Developer  
+ Passionate about Networking, Security & Backend Systems  
 
 ---
 
-## 💻 Technical Skills
+##  About Me
+
+Computer Science Student
+Interested in Cybersecurity & Ethical Hacking
+Building Full-Stack Web Applications
+Focused on writing clean and scalable code
+Constantly learning and improving
+
+---
+
+## Technical Skills
 
 ### 🔹 Programming Languages
 - Python
@@ -47,9 +47,9 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🔍 Advanced Python Port Scanner
+###  Advanced Python Port Scanner
 Multi-threaded TCP port scanner with:
 - Banner grabbing
 - CLI argument parsing
@@ -60,7 +60,7 @@ Multi-threaded TCP port scanner with:
 
 ---
 
-### 🌐 MERN Stack Full-Stack Project
+###  MERN Stack Full-Stack Project
 Built a full-stack web application using:
 - React frontend
 - Node & Express backend
@@ -69,7 +69,7 @@ Built a full-stack web application using:
 
 ---
 
-## 🎯 Currently Learning
+##  Currently Learning
 
 - Advanced Backend Development
 - Web Security
@@ -78,7 +78,7 @@ Built a full-stack web application using:
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 GitHub: https://github.com/Rohitzero  
 
